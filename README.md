@@ -1,7 +1,7 @@
 Javolution
 Welcome to the Javolution repository!
 
-Description
+
 Javolution is a collection of Java projects by EF-Code aimed at helping Java developers enhance their programming skills and build robust applications. It includes various utility classes, data structures, and algorithms that can be used in different Java projects.
 
 Repository Structure
