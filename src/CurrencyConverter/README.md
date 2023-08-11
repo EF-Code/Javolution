@@ -41,6 +41,10 @@ To use this currency converter, you'll need:
    java CurrencyConverter
    
 
+- Run the added executable jar using:
+	java -jar CurrencyConverter.java
+
+
 4. Follow the prompts to enter the amount in USD and the target currency code (e.g., "EUR").
 
 5. The program will display the converted amount in the target currency.
