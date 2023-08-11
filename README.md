@@ -32,7 +32,7 @@ Contributions to Javolution are welcome! If you find a bug, have a suggestion, o
 Before making any contributions, please review the guidelines in the CONTRIBUTING.md file.
 
 License
-Javolution is not released under a License. Feel free to use and modify the code according to the terms of the license.
+Javolution is released under MIT License. Feel free to use and modify the code according to the terms of the license.
 
 Contact
 For any questions, suggestions, or feedback, please contact the project maintainers or open an issue on the repository.
